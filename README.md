@@ -52,7 +52,7 @@ npm install
 npm run dev
 ```
 
-Open **http://localhost:3000**
+LIVE DEMO: **https://skillora-dun.vercel.app/**
 
 ---
 
